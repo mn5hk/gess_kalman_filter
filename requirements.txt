@@ -1,4 +1,3 @@
-name: kf_bf
 dependencies:
 - python
 - pip

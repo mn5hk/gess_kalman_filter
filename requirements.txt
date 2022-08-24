@@ -4,5 +4,5 @@
 - jupyter
 - matplotlib
 - scipy
-#- sympy
-#- filterpy
+- sympy
+- filterpy
